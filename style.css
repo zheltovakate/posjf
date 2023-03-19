@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+   background-color: rgb(243, 202, 149);
+   padding: 10px;
+   margin: 10px;
+}
+
+
+header, nav{
+    background-color: rgb(224, 167, 91);
+    color: SaddleBrown;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px;
+}
+nav a{
+    
+    border: 2px solid ;
+    border-radius: 20px;
+ padding: 5px;
+}
+h1{
+    color: brown;
+}
+footer{
+    background-color: darksalmon;
+    border-radius: 10px;
+    border: 2px solid ;
+    padding: 10px;
+}
